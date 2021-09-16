@@ -10,3 +10,9 @@ Innovative Boise Bootcamp Internship Focuses On Diversifying Tech, Equipping Job
 * Personalized feedback and One-on-one mentoring
 
 ## Who is part of Boise Bootcamp
+
+
+### Wait...has anything like this been tried before?
+Yes, data will be posted here soon.
+
+https://glotalent.org/2017/08/18/innovative-internship-focuses-on-diversifying-tech-equipping-gti-job-seekers-with-skills-needed-for-treasure-valley-employers/
