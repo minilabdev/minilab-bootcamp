@@ -5,7 +5,7 @@ Innovative Boise Bootcamp Internship Focuses On Diversifying Tech, Equipping Job
 Boise Bootcamp partners with local startups to teach you:
 * Most popular technologies and methodologies in the industry
 * The fundamentals of computer science via tested curriculum
-* how to succeed in technical interviews
+* How to succeed in technical interviews
 
 These components will set you up for success better than any web development bootcamp can. 
 
