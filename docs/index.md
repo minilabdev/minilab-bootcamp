@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Boise Bootcamp
+Innovative Boise Bootcamp Internship Focuses On Diversifying Tech, Equipping Job Seekers With Skills Needed For Treasure Valley Employers
 
-You can use the [editor on GitHub](https://github.com/nmousa/boise-bootcamp/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Goals of the Boise Bootcamp for participants 
+* Build new coding and interview skills  
+* Overcome Imposter Syndrome 
+* Understand the technical interview process in the industry
+* Ace Coding Interview and land a high haying job
+* Personalized feedback and One-on-one mentoring
 
-### Markdown
+## Who is part of Boise Bootcamp
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Wait...has anything like this been tried before?
+Yes, data will be posted here soon.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nmousa/boise-bootcamp/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+https://glotalent.org/2017/08/18/innovative-internship-focuses-on-diversifying-tech-equipping-gti-job-seekers-with-skills-needed-for-treasure-valley-employers/
