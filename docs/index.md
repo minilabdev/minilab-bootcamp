@@ -6,10 +6,13 @@ Innovative Boise Bootcamp Internship Focuses On Diversifying Tech, Equipping Job
 * Build new coding and interview skills  
 * Overcome Imposter Syndrome 
 * Understand the technical interview process in the industry
-* Ace Coding Interview and land a high haying job
-* Personalized feedback and One-on-one mentoring
+* Ace Coding Interview and land a high paying job
+* Personalized feedback and one-on-one mentoring
 
 ## Who is part of Boise Bootcamp
+* Skilled Immigrants and Refugees
+* Low-income residents of Idaho 
+* Individuals interested in career change 
 
 
 ### Wait...has anything like this been tried before?
