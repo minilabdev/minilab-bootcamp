@@ -21,6 +21,9 @@ These components will set you up for success better than any web development boo
 * Ace Coding Interview and land a high paying job
 * Personalized feedback and one-on-one mentoring
 
+## When will Boise Bootcamp start?
+January 2022
+
 
 ### Wait...has anything like this been tried before?
 Yes, data will be posted here soon.
