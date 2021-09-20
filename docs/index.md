@@ -22,10 +22,17 @@ These components will set you up for success better than any web development boo
 * Personalized feedback and one-on-one mentoring
 
 ## When will Boise Bootcamp start?
-January 2022
+TBD in 2022
 
+## Where will this bootcamp be held?
+Looking at a few options - computer science department in Boise Downtown
 
 ### Wait...has anything like this been tried before?
-Yes, data will be posted here soon.
+Yes, a similar free bootcamp was held in 2017. They were all stuents and this internship was their first breakthrough opportunity.
+Please see details at https://github.com/nmousa/boise-bootcamp/blob/main/show_me_data.md 
 
+You may find 2017 bootcamp calendar at https://github.com/ambientsensors-bootcamp/resources 
+
+### In the Press
 https://glotalent.org/2017/08/18/innovative-internship-focuses-on-diversifying-tech-equipping-gti-job-seekers-with-skills-needed-for-treasure-valley-employers/
+
