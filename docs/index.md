@@ -28,6 +28,16 @@ TBD in 2022
 In person and remotely. 
 Looking at a few options - computer science department in Boise Downtown is our top choice.
 
+## How to Help?
+"I love what you're doing, how can I help?" I am glad you asked. It takes a village and we will need the following volunteers:
+* Industry mentors
+* Industry speakers 
+* Mock interviewers
+* Resume reviewers 
+* Guest lecturers
+
+Please reach out to Nilab if you're interested in any of those. 
+
 ### Wait...has anything like this been tried before?
 Yes, a similar free bootcamp was held in 2017. They were all stuents and this internship was their first breakthrough opportunity.
 Please see details at https://github.com/nmousa/boise-bootcamp/blob/main/show_me_data.md 
