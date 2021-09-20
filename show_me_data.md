@@ -1,8 +1,9 @@
+This is the cohort that attended a similar bootcamp in 2017.
+They were all stuents and this internship was their first breakthrough opportunity. 
 
+Where are they now?
 
-
-
-**Name**|**Current Job**
+**Student**|**Current Job**
 :-----:|:-----:
 Suadad Jasim| Data Analyst
 Megan Pierce| Software Engineer at HP
