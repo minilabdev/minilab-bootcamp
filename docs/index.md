@@ -40,7 +40,7 @@ Please reach out to Nilab if you're interested in any of those.
 
 ### Wait...has anything like this been tried before?
 Yes, a similar free bootcamp was held in 2017. They were all stuents and this internship was their first breakthrough opportunity.
-Please see details at https://github.com/nmousa/boise-bootcamp/blob/main/show_me_data.md 
+Please see details at https://github.com/minilabdev/minilab-bootcamp/blob/main/show_me_data.md 
 
 You may find 2017 bootcamp calendar at https://github.com/ambientsensors-bootcamp/resources 
 
